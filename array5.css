@@ -1,0 +1,19 @@
+body{background-image: url(navy.jpg);}
+.table1 {
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    text-size-adjust: 20px;
+    border-collapse: collapse;
+    width: 50%;
+    border: 1px solid #f2f5f7;
+}
+.table1 tr th{
+    background: #35A9DB;
+    color: #fff;
+    font-weight: normal;
+}
+
+.table1, th, td {
+    padding: 8px 20px;
+    text-align: left;
+}
