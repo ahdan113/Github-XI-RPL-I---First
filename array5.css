@@ -2,6 +2,7 @@ body{background-image: url(navy.jpg);}
 .table1 {
     font-family: sans-serif;
     color: rgb(255, 255, 255);
+    
     text-size-adjust: 20px;
     border-collapse: collapse;
     width: 50%;
