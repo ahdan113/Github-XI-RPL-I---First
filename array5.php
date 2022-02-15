@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head> 
     <link rel="stylesheet" href="array5.css">
 </head>
 <body >
